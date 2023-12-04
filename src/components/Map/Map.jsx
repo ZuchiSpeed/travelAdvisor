@@ -21,7 +21,7 @@ const Map = ({ setCoordinates, setBounds, coordinates }) => {
     };
 
     // Define the API key and the callback function for Google Maps
-    const apiKey = 'AIzaSyA-e4bzY1fsB3rivEhfcBWCmwA1-eoQuvU';
+    const apiKey = '<API KEY>';
     const createMapOptions = () => ({
         zoomControl: true,
     });
