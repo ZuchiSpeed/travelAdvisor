@@ -71,4 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 =======
 # travelAdvisor
->>>>>>> 79bb6db24487ea587f44eaf059c371bb6ab997ba
